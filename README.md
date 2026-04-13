@@ -8,7 +8,6 @@
 
 - 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirilltalkmuch@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/KerilJan)
 
----
 
 <!-- ### 🤝 Социальные сети:
 
@@ -60,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
-Примеры выполненых SQL запросов - https://github.com/KerilJan/SQL
+Примеры выполненых SQL запросов - 
 ---
 
 ### ✏️ Работа с кодом:
@@ -73,6 +72,18 @@
 </div>
 
 ---
+
+# Тестовые артефакты
+
+- [Webshop Testing](./Web-Testing) – исследовательское и функциональное тестирование  
+- [API Testing](./API-Testing) – REST и SOAP через Postman  
+- [MySQL](https://github.com/KerilJan/SQL) – запросы и скрипты для валидации базы данных      
+- [Android App Testing](./Mobile-Testing) – ручные тест-кейсы и баг-репорты 
+- [Charles Proxy](./Mocking) – мокирование ответов и анализ сетевого трафика   
+- [Bash](./Scripts) – скрипты для QA-задач  
+- [Git](./Git) – базовые команды системы контроля версий 
+
+
 
 <!-- ### 💻 Пройденные курсы:
 
