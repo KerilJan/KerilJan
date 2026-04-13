@@ -79,7 +79,7 @@
 - [API Testing](./API-Testing) – REST и SOAP через Postman  
 - [MySQL](https://github.com/KerilJan/SQL) – запросы и скрипты для валидации базы данных      
 - [Android App Testing](./Mobile-Testing) – ручные тест-кейсы и баг-репорты 
-- [Charles Proxy](./Mocking) – мокирование ответов и анализ сетевого трафика   
+- [Charles Proxy](https://github.com/KerilJan/Charles-Proxy) – мокирование ответов и анализ сетевого трафика   
 - [Bash](https://github.com/KerilJan/Bash) – скрипты для QA-задач  
 - [Git](./Git) – базовые команды системы контроля версий 
 
