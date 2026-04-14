@@ -76,7 +76,7 @@
 # Тестовые артефакты
 
 - [Webshop Testing](./Web-Testing) – исследовательское и функциональное тестирование  
-- [API Testing](./API-Testing) – REST и SOAP через Postman  
+- [API Testing](https://github.com/KerilJan/API_testing) – REST API через Postman  
 - [MySQL](https://github.com/KerilJan/SQL) – запросы и скрипты для валидации базы данных      
 - [Android App Testing](./Mobile-Testing) – ручные тест-кейсы и баг-репорты 
 - [Charles Proxy](https://github.com/KerilJan/Charles-Proxy) – мокирование ответов и анализ сетевого трафика   
