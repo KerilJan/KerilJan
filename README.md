@@ -71,7 +71,7 @@
 
 ---
 
-# Тестовые артефакты
+# Test Artifacts
 
 - [Webshop Testing](https://github.com/KerilJan/Web_shop_testing) – исследовательское и функциональное тестирование  
 - [API Testing](https://github.com/KerilJan/API_testing) – REST API через Postman  
