@@ -1,15 +1,16 @@
-# Привет, меня зовут Кирилл!
+# Hey, let me find some bugs!
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About Me:
 
-Я начинающий тестировщик. Прошел курс по тестированию, на котором освоил работу с тестовой документацией, программы по работе с кодом, тестировал веб и мобильные приложения. 
-
-- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirilltalkmuch@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/KerilJan)
+I am a Junior QA Engineer with a solid foundation in software testing. I have completed a QA course where I gained hands-on experience in creating test documentation, working with development tools, and testing both web and mobile applications.
 
 
-<!-- ### 🤝 Социальные сети:
+- 📫 Contact me:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirilltalkmuch@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/KerilJan)
+
+
+<!-- ### 🤝Social Media :
 
   <div id="badges">
     <a href="#" target="_blank">
@@ -19,7 +20,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Test Management & Documentation :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -31,7 +32,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web Application Testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -41,7 +42,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile Application Testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -53,14 +54,14 @@
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Database Testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
 
-### ✏️ Работа с кодом:
+### ✏️  Development Tools:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
